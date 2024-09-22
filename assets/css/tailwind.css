@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind utilities;
+@tailwind components;
+
+*{
+    scroll-behavior: smooth;
+}
+
+@font-face {
+    font-family: 'pixel';
+    src: url('./fonts/PixelifySans-Regular.ttf');
+}
+@font-face {
+    font-family: 'minecraft';
+    src: url('./fonts/Pixel\ Digivolve.otf');
+}
