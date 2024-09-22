@@ -7,9 +7,7 @@
           <span class="text-[#00dfff]">Sahil Khan</span>
         </h2>
         <p class="tracking-[.2rem] font-[pixel] leading-normal text-lg">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni nulla neque nemo alias repellendus omnis
-          voluptates quod autem facere, commodi consequuntur ab temporibus sunt, officiis debitis assumenda recusandae
-          est asperiores.
+          Hi! I'm Sahil Khan, a full-stack developer skilled in building dynamic web applications. I enjoy working on both the front-end and back-end, creating seamless user experiences. Let's collaborate to turn ideas into reality!
         </p>
 
         <!-- Buttons for linkedin and github -->
