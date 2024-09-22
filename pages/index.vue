@@ -35,11 +35,11 @@
           Here are some of the skills I possess that help me in my projects.
         </p>
       </div>
-      <NuxtImg class="max-w-[50%] absolute transition-transform duration-300 transform-image"
+      <NuxtImg class="md:max-w-[50%] max-w-[70%] absolute transition-transform duration-300 transform-image"
         :style="{ transform: `rotate(${rotation}deg)` }" src="/skills_1.svg" />
-      <NuxtImg class="max-w-[75%] absolute transition-transform duration-300 transform-image"
+      <NuxtImg class="md:max-w-[75%] max-w-[110%] absolute transition-transform duration-300 transform-image"
         :style="{ transform: `rotate(${-rotation}deg)` }" src="/skills_2.svg" />
-      <NuxtImg class="max-w-[150%] transition-transform duration-300 transform-image"
+      <NuxtImg class="md:max-w-[150%] max-w-[220%] transition-transform duration-300 transform-image"
         :style="{ transform: `rotate(${rotation}deg)` }" src="/skills_3.svg" />
     </section>
 
